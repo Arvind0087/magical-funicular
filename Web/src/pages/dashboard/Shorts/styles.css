@@ -1,0 +1,12 @@
+iframe {
+  pointer-events: none !important;
+}
+
+.video-shorts .plyr {
+  height: 490px;
+  border-radius: 10px;
+}
+
+.video-shorts .plyr__poster {
+  display: none !important;
+}

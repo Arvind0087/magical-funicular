@@ -1,0 +1,6 @@
+.slick-dots li button:before {
+  color: #ff8331 !important;
+}
+.slick-dots li.slick-active button:before {
+  color: #ff8331 !important;
+}

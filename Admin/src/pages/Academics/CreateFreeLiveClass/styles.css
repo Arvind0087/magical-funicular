@@ -1,0 +1,82 @@
+iframe {
+  pointer-events: none !important;
+}
+
+@keyframes blink {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+p.blink {
+  animation: blink 2s linear infinite;
+}
+
+.event-videos .plyr {
+  height: 295px;
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .event-videos .plyr {
+    height: auto !important;
+  }
+}
+
+/* For Webkit Browsers (Chrome, Safari) */
+.scroll-design::-webkit-scrollbar {
+  width: 10px;
+}
+
+.scroll-design::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
+
+.scroll-design::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+/* For Firefox */
+.scroll-design scrollbar {
+  width: 10px;
+}
+
+.scroll-design scrollbar-thumb {
+  background-color: #888;
+}
+
+.scroll-design scrollbar-track {
+  background: #fff;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+  border: none;
+  outline: none;
+  background-color: #f2f2f2;
+}
+
+.emoji-button {
+  padding: 8px;
+  background-color: #f0f0f0;
+  border: none;
+  border-radius: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.emoji-container .epr-main {
+  height: 350px !important;
+}

@@ -1,0 +1,14 @@
+.css-ain8tg-MuiInputBase-root-MuiOutlinedInput-root{
+    height: 42px !important;
+}
+.liveTestContentReport .css-yk1sy6-MuiFormControl-root{
+    width: 112px !important;
+}
+.liveTestContentReport{
+    @media (min-width: 900px){
+        .css-1oh5u8f-MuiAutocomplete-root {
+            margin-bottom: 15px;
+            width: 145px;
+        }
+    }
+}

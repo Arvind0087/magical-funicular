@@ -1,0 +1,6 @@
+.css-1swivyk-MuiInputBase-input-MuiOutlinedInput-input {
+    color: transparent !important ;
+}
+.css-1swivyk-MuiInputBase-input-MuiOutlinedInput-input:focus{
+    color: currentColor !important ;
+}

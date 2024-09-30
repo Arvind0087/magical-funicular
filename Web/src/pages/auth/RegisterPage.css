@@ -1,0 +1,58 @@
+.reg-phone .form-control {
+    height: 54px;
+    width: 100%;
+}
+
+.Otp-button-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.reg-phone{
+margin-top: 15px;
+}
+
+.reg-phone .flag-dropdown{
+    border-radius: 7px 0 0 7px;
+    border: 0px;
+    background-color: transparent;
+    
+}
+.reg-phone .form-control {
+    padding-left: 40px;
+}
+.OTP-button {
+    /* background: linear-gradient(180deg, #FF8331 0%, #DC5F19 100%); */
+    /* border-radius: 42px; */
+    /* display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 36px;
+    height: 44px;
+    width: 100% !important; */
+}
+
+.otp-input input {
+    width: 42.51px !important;
+    height: 42.51px !important;
+    background: #EEF3FC;
+    border: none;
+    outline: none;
+    font-weight: 700;
+    border-radius: 16px;
+    margin-top: 10px;
+}
+
+.otp-input input:not([value='']) {
+    background: 'primary.main';
+    color:#ffff;
+}
+
+.otp-input span {
+    margin-inline: 7px;
+}
+
+.radio::after{
+    content:attr(data-gender) 
+}

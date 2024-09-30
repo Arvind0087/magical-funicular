@@ -1,0 +1,15 @@
+.learn-slider-container > .slick-prev:before {
+  color: green;
+}
+
+.learn-slider-container > .slick-prev.slick-disabled:before {
+  color: green;
+}
+
+.learn-slider-container > .slick-next:before {
+  color: green;
+}
+
+.learn-slider-container > .slick-next.slick-disabled:before {
+  color: green;
+}

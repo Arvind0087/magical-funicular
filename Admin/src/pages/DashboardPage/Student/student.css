@@ -1,0 +1,46 @@
+.sc-dmctIk {
+    border: 1px solid rgba(180, 180, 180, 0.241) !important;
+    border-radius: 5px !important;
+  }
+  .sc-csuSiG {
+    font-family: "Public Sans", sans-serif !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #212b36 !important;
+  }
+  .sc-hLBbgP {
+    font-family: "Public Sans", sans-serif !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    color: #212b36 !important;
+  }
+  .showlist {
+    padding: 6px 16px !important;
+    font-family: "Public Sans", sans-serif !important;
+    font-size: 14px !important;
+    line-height: 22px !important;
+    text-align: center !important;
+    background-color: #00ab55 !important;
+    color: white !important;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .sc-dmctIk::-webkit-scrollbar {
+    width: 5px !important;
+    height: 10px !important;
+  }
+  .sc-dmctIk::-webkit-scrollbar-track {
+    background-color: white !important;
+  }
+  .sc-dmctIk::-webkit-scrollbar-thumb {
+    background-color: #78787850 !important;
+  }
+  .sc-dmctIk::-webkit-scrollbar-thumb:hover {
+    background: rgb(83, 83, 83);
+  }
+  

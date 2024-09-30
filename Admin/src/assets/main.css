@@ -1,0 +1,133 @@
+body {
+  overflow-x: hidden !important;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+::-webkit-scrollbar-thumb {
+  background: #d5d5d5;
+}
+.rdt_Table {
+  border: 1px solid rgba(180, 180, 180, 0.241) !important;
+  border-radius: 5px !important;
+}
+.rdt_TableHeadRow {
+  font-family: "Public Sans", sans-serif !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  line-height: 22px !important;
+  color: #212b36 !important;
+}
+.rdt_TableRow {
+  font-family: "Public Sans", sans-serif !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 22px !important;
+  color: #212b36 !important;
+}
+.showlist {
+  padding: 6px 16px !important;
+  font-family: "Public Sans", sans-serif !important;
+  font-size: 14px !important;
+  line-height: 22px !important;
+  text-align: center !important;
+  background-color: #00ab55 !important;
+  color: white !important;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.rdt_Table::-webkit-scrollbar {
+  width: 5px !important;
+  height: 10px !important;
+}
+.rdt_Table::-webkit-scrollbar-track {
+  background-color: white !important;
+}
+.rdt_Table::-webkit-scrollbar-thumb {
+  background-color: #78787850 !important;
+}
+.rdt_Table::-webkit-scrollbar-thumb:hover {
+  background: rgb(83, 83, 83);
+}
+
+/* ZOOM */
+#root,
+#meetingSDKElement {
+  width: 100vw !important;
+  height: 100vh !important;
+  overflow-x: hidden !important;
+}
+#zmmtg-root {
+  height: 0% !important;
+}
+.react-draggable {
+  transform: none !important;
+  width: 100vw !important;
+  border-radius: 0px !important;
+}
+.zmwebsdk-makeStyles-singleView-7 {
+  padding: 0 !important;
+  border-radius: 0px !important;
+  height: 100vh !important;
+}
+.zmwebsdk-makeStyles-root-28 {
+  width: 100vw !important;
+  height: 100vh !important;
+  border-radius: 0px !important;
+}
+.zmwebsdk-makeStyles-panel-104 {
+  width: 408px !important;
+}
+.zmwebsdk-makeStyles-root-58 {
+  position: fixed !important;
+  width: 100vw !important;
+  bottom: 0 !important;
+  padding: 30px 0 !important;
+}
+.zmwebsdk-makeStyles-root-30 {
+  box-shadow: none !important;
+}
+
+.zmwebsdk-MuiPaper-rounded {
+  border-radius: 0px !important;
+}
+#suspension-view-tabpanel-active {
+  height: 80vh !important;
+}
+.zmwebsdk-MuiPaper-elevation1 {
+  /* height: 100% !important; */
+  box-shadow: none !important;
+  width: 100% !important;
+}
+.zmwebsdk-makeStyles-root-195 {
+  width: 100% !important;
+  height: 100% !important;
+}
+.zmwebsdk-makeStyles-paper-395 {
+  display: flex !important;
+  justify-content: center !important;
+  background-color: transparent !important;
+}
+.zmwebsdk-makeStyles-assignMode-389 {
+  justify-content: center;
+}
+.zmwebsdk-makeStyles-root-177 {
+  width: 100vw !important;
+}
+.zmwebsdk-makeStyles-wrap-55 {
+  max-width: 100% !important;
+  max-height: 100% !important;
+}
+
+/* graph fontSize */
+/* .apexcharts-text tspan {
+  font-family: inherit;
+  font-size: 9px !important
+} */
+

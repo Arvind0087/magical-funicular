@@ -1,0 +1,17 @@
+h5 > table {
+  min-width: 87%;
+}
+
+h5 table td p.western {
+  word-break: break-word !important;
+  /* text-align: justify; */
+}
+
+h5 table td p img {
+  display: inline-block !important;
+}
+
+h6 table td p.western {
+  margin: 0;
+  padding: 0;
+}

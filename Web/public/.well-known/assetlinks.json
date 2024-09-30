@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.koshish.veda",
+      "sha256_cert_fingerprints": [
+        "1A:20:58:EC:74:28:4F:41:CD:F7:6F:BE:48:F7:A2:69:2C:5D:FA:C6:45:1E:27:87:02:0E:32:74:5A:84:23:49",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "16:05:72:68:60:9A:7F:45:0D:C0:23:10:9D:09:DC:48:C7:CD:7B:4F:E7:73:AB:15:02:58:DE:62:27:F4:93:13",
+        "60:26:C5:3F:25:67:6C:8C:97:20:1A:A6:EF:B2:10:FC:FB:9D:18:00:F4:86:14:F6:0D:BF:A3:90:0F:05:AD:FA"
+      ]
+    }
+  }
+]

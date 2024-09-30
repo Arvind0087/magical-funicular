@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NZS382G5Z3.com.koshish.veda",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NZS382G5Z3.com.koshish.veda"
+    ]
+  }
+}

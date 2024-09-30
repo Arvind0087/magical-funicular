@@ -1,0 +1,8 @@
+h5 table td p.western {
+  word-break: break-word !important;
+  /* text-align: justify; */
+}
+
+h5 table td p img {
+  display: inline-block !important;
+}
